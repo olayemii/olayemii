@@ -1,4 +1,4 @@
-# Hi there 👋 OLayemii Garuba 👨‍💻
+# Hi there 👋, I am OLayemii Garuba 👨‍💻
 
 A web developer living in Lagos, Nigeria 🇳🇬
 
