@@ -10,7 +10,10 @@ A web developer living in Lagos, Nigeria 🇳🇬
 </a>
 <a href="https://www.linkedin.com/in/olayemi-garuba-424342144" alt="Connect on LinkedIn"> 
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+</a>&nbsp;&nbsp;
+<a href="mailto:olayemiiofficial@gmail.com">
+  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
 
 ## 🚀 Skills 🔝
 
