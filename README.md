@@ -12,7 +12,19 @@ A web developer living in Lagos, Nigeria 🇳🇬
 ![YouTube Video Views](https://img.shields.io/youtube/views/mKHmtclmplw?style=social)
 
 
-![Connect on LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&label=Connect%20On%20Linkedin)
+<a href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&label=Connect%20On%20Linkedin" /></a>
+<a href="https://api.whatsapp.com/send?phone=2348074140979&text=Hello%20Olayemii,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"> 
+    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
+</a>
+<a href="https://twitter.com/iam_olayemii">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&label=Follow%20Me%20On%20Twitter" />
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/festus-olusegun-b2b197128/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="mailto:chris2code@gmail.com">
+  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
 
 
 ## 🚀 Skills 🔝
