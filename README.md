@@ -67,7 +67,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [3]: https://www.linkedin.com/in/olayemii/
 
 
-> You are watching a master at work._
+
+\> You are watching a master at work._
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
