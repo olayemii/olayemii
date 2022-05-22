@@ -4,7 +4,7 @@ My name is Olayemii Garuba and I'm a software developer from Lagos, Nigeria 🇳
 
 ## &#x270d; Blog & Tutorials
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [Dev.to](https://dev.to/olayemii/). You can also watch tutorial videos I share on [Youtube](https://www.youtube.com/c/flutterpanda).
+Apart from coding, I also maintain a dev.to page - you can find my articles on [Dev.to](https://dev.to/olayemii/). You can also watch tutorial videos I share on [Youtube](https://www.youtube.com/c/flutterpanda).
 
 ## 🔧 Technologies & Tools
 
